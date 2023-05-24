@@ -1,5 +1,3 @@
-Metehan Özdeniz - 22100011083
-
 #
 # Algoritma ve Programlama - 2 Dersi Final Projesi
 
