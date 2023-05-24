@@ -1,5 +1,3 @@
-#22100011083 Metehan Özdeniz
-
 import inspect #Bir fonksiyonun hangi fonksiyon tarafından çağırıldığını öğrenebilmek içinbu modülü kullandım
 import sys
 sys.path.append("lib") # Bu kod Python'a, proje dizininde yer alan lib klasörünün içindeki modülleri araması gerektiğini belirtir. Bu sayede bu projede kullanmış olduğum bütün modülleri tek bir klasör içerisinde toplamış oldum
