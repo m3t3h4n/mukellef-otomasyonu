@@ -26,8 +26,7 @@ Geçici vergi sabittir ve her ay düzenli olarak verilmelidir. İşyerinin o ayk
 # Yapı
 
 Bu otomasyon programı bilgileri csv formatındaki dosyalarda saklamaktadır. Bu csv dosyaları arasında ilişkisel bir bağlantı vardır. Bu dosyalar arasındaki ilişkisel bağlantı Resim 1'deki gibidir.
-
-![](RackMultipart20230524-1-a1cg25_html_f038195229558dc9.png)
+![Resim 1 Diagram](https://raw.githubusercontent.com/m3t3h4n/mukellef-otomasyonu/main/diagram.png)
 
 _Resim 1 Diagram_
 
